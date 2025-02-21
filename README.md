@@ -11,6 +11,7 @@ This time my inspiration was an ergonomic keyboard that I saw in a Joe Scotto vi
 - 48x Cherry MX Switches
 - 48x Blank DSA Keycaps
 - 48x Diodes 1N4148
+- 1x Orpheus Pico
 
 **Others:**
 
