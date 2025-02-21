@@ -15,10 +15,10 @@
 - KMK Firmware
 - 
 
-![Schematic]()
+![Schematic](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/Esquema.png)
 
 
-![PCB]()
+![PCB](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/PCB.png)
 
 
 ![Case]()
