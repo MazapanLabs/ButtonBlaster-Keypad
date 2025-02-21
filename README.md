@@ -2,13 +2,15 @@
 ![Modelo]()
 
 ## Inspiration
-
+This time my inspiration was an ergonomic keyboard that I saw in a Joe Scotto video https://youtu.be/sMTs8F6Fk6s?si=EPKrmchUF-LIuJZo
 
 
 ## Specifications
 **BOOM:**
 
-- 
+- 48x Cherry MX Switches
+- 48x Blank DSA Keycaps
+- 48x Diodes 1N4148
 
 **Others:**
 
