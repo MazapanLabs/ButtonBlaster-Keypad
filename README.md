@@ -19,10 +19,10 @@ This time my inspiration was an ergonomic keyboard that I saw in a Joe Scotto vi
 - ButtonBlaster-Keypad Top
 - ButtonBlaster-KeypaddBottom
 
-![Schematic](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/Esquema.png)
+![Schematic](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/EsquemaF.png)
 
 
-![PCB](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/PCB.png)
+![PCB](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/PCBF.png)
 
 
 ![CaseT](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/Top.png)
