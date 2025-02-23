@@ -6,9 +6,10 @@ from kmk.modules.layers import Layers
 keyboard = KMKKeyboard()
 keyboard.modules.append(Layers())
 
-keyboard.col_pins = (0, 1, 2, 3, 4, 5, 6, 7, 8)  
-keyboard.row_pins = (9, 10, 11, 12, 13, 14) 
+keyboard.col_pins = (15, 14, 13, 3, 4, 5, 28, 27, 26, 22, 21, 20) 
+keyboard.row_pins = (6, 7, 8, 9, 19, 18, 17, 16) 
 keyboard.diode_orientation = MatrixScanner.DIODE_COL2ROW
+
 
 LAYER_BASE = 0
 LAYER_SHIFT = 1
@@ -21,7 +22,6 @@ keymap = [
     [KC.LCTL,  KC.LGUI, KC.LALT, KC.SPC,  KC.DEL,  KC.RGUI, KC.RCTL, KC.LEFT, KC.DOWN, KC.UP,   KC.RGHT],
 ]
 
-# Shift Layer
 shift_layer = [
     [KC.TRNS, KC.N1, KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7, KC.N8, KC.N9, KC.N0, KC.TRNS],
     [KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS],
@@ -29,7 +29,6 @@ shift_layer = [
     [KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS],
 ]
 
-# AltGr Layer
 altgr_layer = [
     [KC.TRNS, KC.AT, KC.EXLM, KC.DQUO, KC.HASH, KC.DLR, KC.PERC, KC.AMPR, KC.SLSH, KC.LPRN, KC.RPRN, KC.EQL],
     [KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS],
@@ -41,3 +40,4 @@ keyboard.keymap = [keymap, shift_layer, altgr_layer]
 
 if __name__ == '__main__':
     keyboard.go()
+
