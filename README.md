@@ -1,5 +1,5 @@
 # ButtonBlaster-Keypad
-![Modelo](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/Armado.png)
+![Modelo](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/Completo.png)
 
 ## Inspiration
 This time my inspiration was an ergonomic keyboard that I saw in a Joe Scotto video https://youtu.be/sMTs8F6Fk6s?si=EPKrmchUF-LIuJZo
@@ -25,5 +25,5 @@ This time my inspiration was an ergonomic keyboard that I saw in a Joe Scotto vi
 ![PCB](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/PCBF.png)
 
 
-![CaseT](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/Top.png)
-![CaseB](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/Bottom.png)
+![CaseT](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/TopF.png)
+![CaseB](https://github.com/Cesarweon/ButtonBlaster-Keypad/blob/main/Imagenes/BottomF.png)
