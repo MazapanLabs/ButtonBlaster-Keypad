@@ -14,7 +14,7 @@ This time my inspiration was an ergonomic keyboard that I saw in a Joe Scotto vi
 - 1x Orpheus Pico
 - PCB
 - 10x M3 Heatset https://uelectronics.com/producto/rosca-de-laton-m2-m3-m4/
-- 10x M3x12 screws
+- 10x M3x12 screws https://articulo.mercadolibre.com.mx/MLM-3383497816-tornillo-m3-de-cruz-12mm-100pzs-_JM#polycard_client=search-nordic&position=3&search_layout=grid&type=item&tracking_id=71e3a52f-9d3e-4759-aefd-9ba59bee5d72  
 
 **Others:**
 
